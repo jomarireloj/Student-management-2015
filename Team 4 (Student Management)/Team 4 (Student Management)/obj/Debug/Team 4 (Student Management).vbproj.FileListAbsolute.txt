@@ -1,0 +1,29 @@
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).exe
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).pdb
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).xml
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.Form1.resources
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.Resources.resources
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).vbproj.GenerateResource.Cache
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).exe
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).xml
+c:\users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).pdb
+C:\Users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).exe.config
+C:\Users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\STUDENTS1.accdb
+C:\Users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).vbprojResolveAssemblyReference.cache
+C:\Users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.k11.resources
+C:\Users\jmrel\documents\visual studio 2013\Projects\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.K12.resources
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).exe.config
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).exe
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).xml
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).pdb
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\STUDENTS1.accdb
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).exe
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).pdb
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Team 4 (Student Management).xml
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).vbprojResolveAssemblyReference.cache
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.Form1.resources
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.k11.resources
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team_4__Student_Management_.Resources.resources
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\obj\Debug\Team 4 (Student Management).vbproj.GenerateResource.Cache
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jmrel\Desktop\Team 4 (Student Management)\Team 4 (Student Management)\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

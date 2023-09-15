@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Team4(StudentManagement)
+</name>
+</assembly>
+<members>
+<member name="P:Team_4__Student_Management_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Team_4__Student_Management_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Team_4__Student_Management_.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Team_4__Student_Management_.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Team_4__Student_Management_.My.Resources.Resources.yey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Team_4__Student_Management_.My.Resources.Resources.yyey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Team_4__Student_Management_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11SummerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12SummerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK11DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK12DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11SummerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12SummerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK11Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK12Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K11SummerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.K12SummerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK11RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet.Recent_StudentsK12RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.K11TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.K11SummerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.K12TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.K12SummerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.Recent_StudentsK11TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.Recent_StudentsK12TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Team_4__Student_Management_.STUDENTS1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Team_4__Student_Management_.STUDENTS1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Team_4__Student_Management_.STUDENTS1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.UpdateAll(Team_4__Student_Management_.STUDENTS1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Team_4__Student_Management_.STUDENTS1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
